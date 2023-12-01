@@ -1,3 +1,14 @@
+h1{
+  color: green;
+  background-color: black;
+}
+
+p{
+  color: white;
+  background-color: black;
+}
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -19,5 +30,14 @@ li a {
 }
 
 a:hover {
-  color:darkgreen;
+    border-style: double;
+    border-color: blue;
+    border-radius: 30px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 50px;
+    text-transform: uppercase;
+    background-image: linear-gradient(blue, red);
+    color: aliceblue;
 }
+
