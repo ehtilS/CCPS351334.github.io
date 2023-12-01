@@ -1,5 +1,9 @@
+body{
+  background-color: black
+}
+
 h1{
-  color: green;
+  color: darkgreen;
   background-color: black;
 }
 
@@ -31,7 +35,7 @@ li a {
 
 a:hover {
     border-style: double;
-    border-color: blue;
+    border-color: darkgreen;
     border-radius: 30px;
     font-weight: bolder;
     text-align: center;
