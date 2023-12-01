@@ -2,6 +2,16 @@ body{
   background-color: black
 }
 
+header{
+  color: green;
+  line-height: 1.3em;
+}
+
+footer{
+  color: green;
+  line-height: 1.3em;
+}
+
 h1{
   color: darkgreen;
   background-color: black;
